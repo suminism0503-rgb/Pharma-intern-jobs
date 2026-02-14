@@ -1,0 +1,176 @@
+{
+  "last_updated": "2026-02-14 06:27:15",
+  "total_jobs": 10,
+  "jobs": [
+    {
+      "id": "job_001",
+      "company": "한국화이자제약",
+      "title": "R&D 인턴 채용",
+      "location": "서울 서초구",
+      "type": "인턴",
+      "deadline": "2026-03-15",
+      "posted_date": "2026-02-10",
+      "url": "https://www.saramin.co.kr/job/001",
+      "description": "신약 개발 연구 지원 업무를 담당할 인턴을 모집합니다.",
+      "requirements": [
+        "생명공학 전공",
+        "영어 가능자 우대",
+        "실험실 경험 우대"
+      ],
+      "source": "saramin"
+    },
+    {
+      "id": "job_002",
+      "company": "유한양행",
+      "title": "마케팅 인턴 모집",
+      "location": "서울 강남구",
+      "type": "인턴",
+      "deadline": "2026-03-20",
+      "posted_date": "2026-02-12",
+      "url": "https://www.saramin.co.kr/job/002",
+      "description": "제약 마케팅 전략 수립 및 시장 분석 업무 지원",
+      "requirements": [
+        "마케팅 관련 전공",
+        "MS Office 활용 능력",
+        "영어 가능자"
+      ],
+      "source": "saramin"
+    },
+    {
+      "id": "job_003",
+      "company": "대웅제약",
+      "title": "임상개발 인턴",
+      "location": "서울 용산구",
+      "type": "인턴",
+      "deadline": "2026-03-10",
+      "posted_date": "2026-02-08",
+      "url": "https://www.saramin.co.kr/job/003",
+      "description": "임상시험 관련 문서 작성 및 데이터 관리 업무",
+      "requirements": [
+        "약학/의학/간호학 전공",
+        "GCP 교육 이수자 우대",
+        "꼼꼼한 성격"
+      ],
+      "source": "saramin"
+    },
+    {
+      "id": "job_004",
+      "company": "SK바이오팜",
+      "title": "연구개발 인턴 채용",
+      "location": "경기 성남시",
+      "type": "인턴",
+      "deadline": "2026-03-25",
+      "posted_date": "2026-02-13",
+      "url": "https://www.jobkorea.co.kr/job/004",
+      "description": "CNS 신약 개발 연구 보조 및 실험 지원",
+      "requirements": [
+        "약학/화학 전공",
+        "연구 경험 우대",
+        "영어 논문 독해 가능"
+      ],
+      "source": "jobkorea"
+    },
+    {
+      "id": "job_005",
+      "company": "종근당",
+      "title": "품질관리(QA) 인턴",
+      "location": "서울 중구",
+      "type": "인턴",
+      "deadline": "2026-03-18",
+      "posted_date": "2026-02-11",
+      "url": "https://www.jobkorea.co.kr/job/005",
+      "description": "의약품 품질관리 및 GMP 관련 업무 지원",
+      "requirements": [
+        "약학/화학공학 전공",
+        "GMP 지식 보유자 우대",
+        "성실성"
+      ],
+      "source": "jobkorea"
+    },
+    {
+      "id": "job_006",
+      "company": "셀트리온",
+      "title": "바이오의약품 생산 인턴",
+      "location": "인천 연수구",
+      "type": "인턴",
+      "deadline": "2026-03-30",
+      "posted_date": "2026-02-14",
+      "url": "https://www.jobkorea.co.kr/job/006",
+      "description": "바이오시밀러 생산공정 모니터링 및 데이터 분석",
+      "requirements": [
+        "생명공학 전공",
+        "실험실 안전교육 이수",
+        "교대근무 가능자"
+      ],
+      "source": "jobkorea"
+    },
+    {
+      "id": "job_007",
+      "company": "동아ST",
+      "title": "영업/마케팅 인턴",
+      "location": "서울 동작구",
+      "type": "인턴",
+      "deadline": "2026-03-22",
+      "posted_date": "2026-02-09",
+      "url": "https://www.incruit.com/job/007",
+      "description": "의약품 영업 지원 및 시장조사 업무",
+      "requirements": [
+        "경영/마케팅 전공",
+        "대인관계 우수자",
+        "운전면허 소지자 우대"
+      ],
+      "source": "incruit"
+    },
+    {
+      "id": "job_008",
+      "company": "한미약품",
+      "title": "제제연구 인턴",
+      "location": "경기 화성시",
+      "type": "인턴",
+      "deadline": "2026-03-28",
+      "posted_date": "2026-02-12",
+      "url": "https://www.incruit.com/job/008",
+      "description": "신약 제제 개발 연구 및 실험 보조",
+      "requirements": [
+        "약학/화학 전공",
+        "HPLC 등 분석기기 사용 경험",
+        "실험 노트 작성 능력"
+      ],
+      "source": "incruit"
+    },
+    {
+      "id": "job_009",
+      "company": "LG화학 생명과학",
+      "title": "데이터 분석 인턴",
+      "location": "서울 강서구",
+      "type": "인턴",
+      "deadline": "2026-03-16",
+      "posted_date": "2026-02-10",
+      "url": "https://www.incruit.com/job/009",
+      "description": "제약 R&D 데이터 분석 및 통계 처리",
+      "requirements": [
+        "통계학/생물정보학 전공",
+        "Python/R 사용 가능",
+        "데이터 분석 경험"
+      ],
+      "source": "incruit"
+    },
+    {
+      "id": "job_010",
+      "company": "부광약품",
+      "title": "허가/인허가 인턴",
+      "location": "서울 서초구",
+      "type": "인턴",
+      "deadline": "2026-03-12",
+      "posted_date": "2026-02-07",
+      "url": "https://www.incruit.com/job/010",
+      "description": "의약품 허가 관련 서류 작성 및 민원 업무",
+      "requirements": [
+        "약학 전공",
+        "식약처 규정 이해",
+        "문서작성 능력"
+      ],
+      "source": "incruit"
+    }
+  ]
+}
